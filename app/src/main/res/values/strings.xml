@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">mockApp</string>
+    <string name="new_session_1">New Session 1</string>
+    <string name="new_session_2">New Session 2</string>
+    <string name="clear_session_1">Clear Session 1</string>
+    <string name="clear_session_2">Clear Session 2</string>
 </resources>
